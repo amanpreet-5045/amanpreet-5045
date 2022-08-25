@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Amanpreet Singh Mehta</h1>
 <h3 align="center">A passionate Software Developer/Data Analyst from India.</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
-
+<break>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpreet-5045&label=Profile%20views&color=0e75b6&style=flat" alt="amanpreet-5045" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpreet-5045" alt="amanpreet-5045" /></a> </p>
