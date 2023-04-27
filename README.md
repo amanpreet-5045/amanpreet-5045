@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Amanpreet Singh Mehta</h1>
 <h3 align="center">A passionate Software Developer/Data Analyst from India.</h3>
-<img align="right" alt="Coding" width="150" height="100" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
+<img align="right" alt="Coding" width="200" height="150" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
 <break>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpreet-5045&label=Profile%20views&color=0e75b6&style=flat" alt="amanpreet-5045" /> </p>
 
