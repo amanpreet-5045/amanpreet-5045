@@ -101,11 +101,12 @@
 </p>
 
 
+
 <!--profile visit count-->
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=amanpreet-5045&label=Profile%20Views&color=1&icon=3&pretty=true" />
-</a>
+  
+[![](https://visitcount.itsvg.in/api?id=amanpreet-5045&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 
 <!--horizontal divider(gradiant)-->
