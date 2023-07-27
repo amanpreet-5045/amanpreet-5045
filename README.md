@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amanpreet-mehta/" target="blank"><img align="center" src="![image](https://github.com/amanpreet-5045/amanpreet-5045/assets/84512609/20369441-da04-4050-99af-1f71a888342f)
+<a href="https://www.linkedin.com/in/amanpreet-mehta/" target="blank"><img align="center" src="https://github.com/amanpreet-5045/amanpreet-5045/assets/84512609/20369441-da04-4050-99af-1f71a888342f
 " alt="amanpreet-mehta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19846998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19846998" height="30" width="40" /></a>
 <a href="https://kaggle.com/amanpreetsinghmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanpreetsinghmehta" height="30" width="40" /></a>
